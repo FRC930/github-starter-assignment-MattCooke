@@ -1,3 +1,3 @@
 if test -f ../MyFile.txt; then
-  echo "File exists."
+  echo 5
 fi
